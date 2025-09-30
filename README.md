@@ -35,6 +35,9 @@ volleyball-eda/
 
 ---
 <img width="1028" height="670" alt="Screenshot 2025-09-30 142725 - Copy" src="https://github.com/user-attachments/assets/078464f6-fc2a-4726-a32f-7894397af294" />
+<img width="1486" height="762" alt="Screenshot 2025-09-30 142848 - Copy" src="https://github.com/user-attachments/assets/d13a1711-96f2-4034-aea8-e512fa318848" />
+<img width="1486" height="762" alt="Screenshot 2025-09-30 142848 - Copy" src="https://github.com/user-attachments/assets/163474f5-0a3a-472a-889c-5c7c58c056f0" />
+<img width="1047" height="625" alt="Screenshot 2025-09-30 142938 - Copy" src="https://github.com/user-attachments/assets/cf054884-ef1a-4269-bf7e-ecf80653a1f5" />
 
 
 ## 🚀 Features
@@ -43,7 +46,12 @@ volleyball-eda/
 - **Top-10 players** by each metric.  
 - Country & position-level insights.  
 - Correlation analysis & role differences.  
-- Visualizations: boxplots, scatter plots, heatmap.  
+- Visualizations: boxplots, scatter plots, heatmap.
+- <img width="1485" height="794" alt="Screenshot 2025-09-30 142958 - Copy" src="https://github.com/user-attachments/assets/6a6f5216-442e-4e00-89f4-eb2d2a097f51" />
+ <img width="1482" height="613" alt="Screenshot 2025-09-30 143022 - Copy" src="https://github.com/user-attachments/assets/19b7397d-a4f3-4857-a183-4c1a638d07ae" />
+
+<img width="785" height="573" alt="Screenshot 2025-09-30 143038 - Copy" src="https://github.com/user-attachments/assets/e7b84f11-dd09-4e67-9231-880c3b3ff64b" />
+<img width="1015" height="704" alt="Screenshot 2025-09-30 143057 - Copy" src="https://github.com/user-attachments/assets/bf0be93e-958d-4f17-b963-9da4477735da" />
 
 ---
 
@@ -73,7 +81,10 @@ volleyball-eda/
 - **Excel Report** → Descriptive stats + Top-10 players by metric  
 - **CSV Summary** → Numeric statistics  
 - **Plots** → Boxplots, scatter plots, correlation heatmap  
-- **Text Report** → Quick summary of dataset  
+- **Text Report** → Quick summary of dataset
+- <img width="1483" height="755" alt="Screenshot 2025-09-30 143132 - Copy" src="https://github.com/user-attachments/assets/114597ca-8023-440f-aeb0-b8fe3774d25e" />
+
+<img width="1170" height="733" alt="Screenshot 2025-09-30 143113" src="https://github.com/user-attachments/assets/2e127f85-b7aa-4d22-81b9-94f78e7d737a" />
 
 ---
 
@@ -82,7 +93,10 @@ volleyball-eda/
 - pandas  
 - matplotlib  
 - seaborn  
-- openpyxl  
+- openpyxl
+- <img width="1481" height="758" alt="Screenshot 2025-09-30 143155 - Copy" src="https://github.com/user-attachments/assets/54626c70-35b7-4ffd-afaa-f6455461b2b9" />
+<img width="1486" height="790" alt="Screenshot 2025-09-30 143214 - Copy" src="https://github.com/user-attachments/assets/2f4b88c7-4ea5-45c8-85b3-2d35816a72a4" />
+
 
 Install with:
 ```bash
