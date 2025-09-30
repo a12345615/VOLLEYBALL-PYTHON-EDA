@@ -6,6 +6,7 @@ Exploratory Data Analysis (EDA) of **Volleyball Nations League players** dataset
 It analyzes performance metrics such as **Attack, Block, Serve, Set, Dig, and Receive**, and provides insights at both **player-level** and **country-level**.
 
 ---
+<img width="1473" height="715" alt="Screenshot 2025-09-30 142608" src="https://github.com/user-attachments/assets/2e7c3b61-ae82-4228-b20c-fa1b8068ab1c" />
 
 ## 📌 Description
 This project focuses on analyzing player performance from the Volleyball Nations League.  
@@ -33,6 +34,8 @@ volleyball-eda/
 ```
 
 ---
+<img width="1028" height="670" alt="Screenshot 2025-09-30 142725 - Copy" src="https://github.com/user-attachments/assets/078464f6-fc2a-4726-a32f-7894397af294" />
+
 
 ## 🚀 Features
 - Clean dataset (no missing values).  
