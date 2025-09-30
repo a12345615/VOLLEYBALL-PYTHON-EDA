@@ -4,8 +4,6 @@
 
 Exploratory Data Analysis (EDA) of **Volleyball Nations League players** dataset.  
 It analyzes performance metrics such as **Attack, Block, Serve, Set, Dig, and Receive**, and provides insights at both **player-level** and **country-level**.
-
----
 -import pandas as pd.
 -import numpy as np.
 -import seaborn as sns.
