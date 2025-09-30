@@ -34,7 +34,8 @@ volleyball-eda/
 ```
 
 ---
-<img width="1486" height="762" alt="Screenshot 2025-09-30 142848 - Copy" src="https://github.com/user-attachments/assets/d13a1711-96f2-4034-aea8-e512fa318848" />
+<img width="1473" height="715" alt="Screenshot 2025-09-30 142608 - Copy" src="https://github.com/user-attachments/assets/37378106-6e6d-42b9-912e-3c52e0c6bca7" />
+
 <img width="1486" height="762" alt="Screenshot 2025-09-30 142848 - Copy" src="https://github.com/user-attachments/assets/163474f5-0a3a-472a-889c-5c7c58c056f0" />
 <img width="1047" height="625" alt="Screenshot 2025-09-30 142938 - Copy" src="https://github.com/user-attachments/assets/cf054884-ef1a-4269-bf7e-ecf80653a1f5" />
 
